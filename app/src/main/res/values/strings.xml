@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YoutobeAPI</string>
+    <string name="button_detail">Video Trailer</string>
+    <string name="action_setting">Setting</string>
+    <string name="action_popular">Populer</string>
+    <string name="action_playing">Playing</string>
+
+</resources>
